@@ -1,0 +1,20 @@
+#leg{
+    border:2px solid white;
+    border-radius: 0% 20% 0% 20%;
+    padding:10px;
+    background-image:url("redwood.png");
+}
+#btn{
+    display:flex;
+    justify-content: center;
+}
+#s-btn{
+    margin-right:50px;
+}
+fieldset{
+    background-image: url("wood1.avif");
+}
+body{
+    background-image: url("wood2.jpg");
+    color:white;
+}
